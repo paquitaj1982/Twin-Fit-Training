@@ -1,0 +1,8 @@
+{
+  "name": "Twin Fit Training",
+  "description": "An upscale, high-performance personal training application featuring workout tracking, meal planning, live session booking, and real-time activity tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
